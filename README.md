@@ -1,4 +1,4 @@
-# event_registration_form
+# Event_Registration_Form
 
 A new Flutter project.
 
